@@ -1,6 +1,6 @@
 # AirBnb-Experience-clone
 
-<img src="https://raw.githubusercontent.com/zdimond/airbnb-experiences-clone/main/public/Screen%20Shot%202022-08-24%20at%2010.49.00%20AM.png">
+<img src="https://raw.githubusercontent.com/zdimond/airbnb-experiences-clone/main/public/Screen%20Shot%202022-08-24%20at%2010.49.00%20AM.png" width="400px">
 
 ## Objective
 
