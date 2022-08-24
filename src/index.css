@@ -109,3 +109,23 @@ header {
 .card-bolded-price {
   font-weight: 600;
 }
+
+@media screen and (min-width: 501px) {
+
+  body {
+    display: flex;
+    justify-content: center;
+    background: #222222;
+    align-items: center;
+  }
+
+  #root {
+    height: 85% !important;
+    overflow-y: scroll;
+    width: 500px;
+    background: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+}
