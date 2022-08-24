@@ -6,6 +6,8 @@
 
 Develop an app with reusable React components. This project was created following a tutorial from Scrimba by Bob Ziroll.
 
+All design based on a Figma design from that course: https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1
+
 ## Structure
 
 The app consists of three components:
