@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/airbnb-experiences-react-clone/static/css/main.70978c56.css",
-    "main.js": "/airbnb-experiences-react-clone/static/js/main.891ace05.js",
-    "static/media/hero-img.png": "/airbnb-experiences-react-clone/static/media/hero-img.20425e7d15b2460e7958.png",
-    "static/media/mountain-bike.png": "/airbnb-experiences-react-clone/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
-    "static/media/wedding-photography.png": "/airbnb-experiences-react-clone/static/media/wedding-photography.62dfa0af6d4f23912427.png",
-    "static/media/katie-zaferes.png": "/airbnb-experiences-react-clone/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
-    "static/media/airbnb-logo.png": "/airbnb-experiences-react-clone/static/media/airbnb-logo.e4424517383d14a03a24.png",
-    "index.html": "/airbnb-experiences-react-clone/index.html",
-    "main.70978c56.css.map": "/airbnb-experiences-react-clone/static/css/main.70978c56.css.map",
-    "main.891ace05.js.map": "/airbnb-experiences-react-clone/static/js/main.891ace05.js.map"
+    "main.css": "/airbnb-experiences-clone/static/css/main.70978c56.css",
+    "main.js": "/airbnb-experiences-clone/static/js/main.d6f5c608.js",
+    "static/media/hero-img.png": "/airbnb-experiences-clone/static/media/hero-img.20425e7d15b2460e7958.png",
+    "static/media/mountain-bike.png": "/airbnb-experiences-clone/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/airbnb-experiences-clone/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/airbnb-experiences-clone/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/airbnb-experiences-clone/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/airbnb-experiences-clone/index.html",
+    "main.70978c56.css.map": "/airbnb-experiences-clone/static/css/main.70978c56.css.map",
+    "main.d6f5c608.js.map": "/airbnb-experiences-clone/static/js/main.d6f5c608.js.map"
   },
   "entrypoints": [
     "static/css/main.70978c56.css",
-    "static/js/main.891ace05.js"
+    "static/js/main.d6f5c608.js"
   ]
 }
