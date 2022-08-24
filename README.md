@@ -4,7 +4,7 @@
 
 ## Objective
 
-Develop an app with static and reusable data-driven React components to practice the setup of a React project. This project was created following a tutorial from Scrimba by Bob Ziroll.
+Develop an app with reusable React components. This project was created following a tutorial from Scrimba by Bob Ziroll.
 
 ## Structure
 
@@ -27,7 +27,6 @@ https://www.youtube.com/watch?v=bMknfKXIFA8
 ## Concepts Learned
 
 * React Syntax
-* Process of using Create React App
-* Using map to access data
-* Key prop
-* Props: receiving props in a component, destructuring props, passing in non-string props, pass object as props vs. spread object as props
+* create-react-app
+* using .map() to add JSX to data items
+* Props: receiving props in a component, destructuring props, passing object as prop
