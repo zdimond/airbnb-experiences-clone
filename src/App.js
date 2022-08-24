@@ -8,13 +8,15 @@ export default function App() {
   const cardData = data.map(card => {
     return (
       <Card
+        key={card.id}
         title={card.title}
         rating={card.stats.rating}
         reviewCount={card.stats.reviewCount}
-        country={card.country}
+        location={card.location}
         price={card.price}
         priceUnit={card.priceUnit}
         img={card.img}
+        openSpots={card.openSpots}
       />
     )
   })

@@ -1,6 +1,9 @@
 import zaferes from "./images/katie-zaferes.png"
 import wedding from "./images/wedding-photography.png"
 import bike from "./images/mountain-bike.png"
+import astro from "./images/astrophotography.webp"
+import popsicle from "./images/popsicle-sticks.jpeg"
+import casino from "./images/casino.jpg"
 
 export default [
     {
@@ -8,107 +11,77 @@ export default [
         title: "Life lessons with Katie Zaferes",
         stats: {
             rating: "5.0",
-            reviewCount: "6"
+            reviewCount: 6
         },
-        country: "USA",
+        location: "Boston, USA",
         price: "$136",
         priceUnit: "person",
-        img: zaferes
+        img: zaferes,
+        openSpots: 0
     },
     {
         id: 2,
         title: "Learn wedding photography",
         stats: {
-            rating: "5.0",
-            reviewCount: "30"
+            rating: 4.4,
+            reviewCount: 30
         },
-        country: "USA",
+        location: "Online",
         price: "$125",
         priceUnit: "couple",
-        img: wedding
+        img: wedding,
+        openSpots: 27
     },
     {
         id: 3,
         title: "Group mountain biking",
         stats: {
-            rating: "4.8",
-            reviewCount: "2"
+            rating: 4.8,
+            reviewCount: 24
         },
-        country: "USA",
+        location: "Norway",
         price: "$136",
         priceUnit: "biker",
-        img: bike
+        img: bike,
+        openSpots: 30
     },
     {
-        id: 1,
-        title: "Life lessons with Katie Zaferes",
+        id: 4,
+        title: "Learn Astrophotography in the Mountains",
         stats: {
-            rating: "5.0",
-            reviewCount: "6"
+            rating: 4.96,
+            reviewCount: 68
         },
-        country: "USA",
+        location: "Telluride, USA",
         price: "$136",
         priceUnit: "person",
-        img: zaferes
+        img: astro,
+        openSpots: 44
     },
     {
-        id: 2,
-        title: "Learn wedding photography",
+        id: 5,
+        title: "Popsicle Stick Art",
         stats: {
-            rating: "5.0",
-            reviewCount: "30"
+            rating: 3.2,
+            reviewCount: 668
         },
-        country: "USA",
-        price: "$125",
-        priceUnit: "couple",
-        img: wedding
+        location: "Online",
+        price: "$28",
+        priceUnit: "participant",
+        img: popsicle,
+        openSpots: 13
     },
     {
-        id: 3,
-        title: "Group mountain biking",
+        id: 6,
+        title: "Casino Night!",
         stats: {
-            rating: "4.8",
-            reviewCount: "2"
+            rating: 4.2,
+            reviewCount: 22
         },
-        country: "USA",
-        price: "$136",
-        priceUnit: "biker",
-        img: bike
-    },
-    {
-        id: 1,
-        title: "Life lessons with Katie Zaferes",
-        stats: {
-            rating: "5.0",
-            reviewCount: "6"
-        },
-        country: "USA",
-        price: "$136",
+        location: "Scranton, USA",
+        price: "$50",
         priceUnit: "person",
-        img: zaferes
-    },
-    {
-        id: 2,
-        title: "Learn wedding photography",
-        stats: {
-            rating: "5.0",
-            reviewCount: "30"
-        },
-        country: "USA",
-        price: "$125",
-        priceUnit: "couple",
-        img: wedding
-    },
-    {
-        id: 3,
-        title: "Group mountain biking",
-        stats: {
-            rating: "4.8",
-            reviewCount: "2"
-        },
-        country: "USA",
-        price: "$136",
-        priceUnit: "biker",
-        img: bike
-    },
+        img: casino,
+        openSpots: 0
+    }
 ]
